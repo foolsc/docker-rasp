@@ -1,0 +1,5 @@
+*.gem
+*.tar.gz
+*.tar
+
+*.log
